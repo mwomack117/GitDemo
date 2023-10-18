@@ -17,5 +17,10 @@ public class SeleniumTest {
 	public void elementsUI() {
 		System.out.println("elementsUI");
 	}
+	
+	@Test
+	public void submitOrder() {
+		System.out.println("submitOrder test");
+	}
 
 }

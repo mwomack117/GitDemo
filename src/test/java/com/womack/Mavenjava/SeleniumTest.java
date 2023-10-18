@@ -22,5 +22,10 @@ public class SeleniumTest {
 	public void submitOrder() {
 		System.out.println("submitOrder test");
 	}
+	
+	@Test
+	public void deleteOrder() {
+		System.out.println("deleteOrder test");
+	}
 
 }

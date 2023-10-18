@@ -11,6 +11,12 @@ public class RESTAPITest {
 		System.out.println("postJira3");
 	}
 	
+	@Test(groups= {"smoke"})
+	public void deleteJira() {
+		System.out.println("deleteJira");
+		System.out.println("deleteJira2");
+	}
+	
 	@Test 
 	public void deleteTwitter() {
 		System.out.println("deleteTwitter");

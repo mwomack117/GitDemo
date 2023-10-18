@@ -9,6 +9,7 @@ public class Demo {
 		System.out.println("Demo class test");
 		System.out.println("Demo class test2");
 		System.out.println("Demo class test3");
+
 	}
 	
 	@Test

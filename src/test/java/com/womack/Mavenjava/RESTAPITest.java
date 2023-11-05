@@ -32,4 +32,9 @@ public class RESTAPITest {
 		System.out.println("feature/mike");
 	}
 	
+	@Test 
+	public void featureDev() {
+		System.out.println("feature/dev1");
+	}
+	
 }
